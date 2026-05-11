@@ -1,0 +1,15 @@
+<prefab version="1.3.0">
+	<group name="conquest" pos="-67.1 0.0 -42.7" layer="base_points">
+		<script pos="-21.2 0.3 8.0" file="MOD/avf/conquest/scripts/capture_area.lua">
+			<trigger tags="avf_conquest_point"/>
+		</script>
+		<script pos="3.6 0.3 -17.8" file="MOD/avf/conquest/scripts/capture_area.lua">
+			<trigger tags="avf_conquest_point"/>
+		</script>
+		<script pos="20.0 0.3 16.9" file="MOD/avf/conquest/scripts/capture_area.lua">
+			<trigger tags="avf_conquest_point"/>
+		</script>
+		<script file="MOD/avf/conquest/scripts/AVF_conquest_manager.lua"/>
+	</group>
+</prefab>
+
