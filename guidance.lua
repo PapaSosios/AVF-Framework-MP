@@ -1,4 +1,3 @@
-
 test_distance = 30 
 scale_modifier = 1
 

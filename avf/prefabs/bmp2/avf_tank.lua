@@ -1,3 +1,4 @@
+#version 2
 #include "avf_custom.lua"
 
 

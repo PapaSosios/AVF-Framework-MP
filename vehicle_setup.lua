@@ -1,5 +1,3 @@
-
-
 function addGun(gunJoint,attatchedShape,turretJoint,turret_rot)
 	if unexpected_condition then error() end
 	

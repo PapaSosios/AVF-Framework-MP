@@ -1,4 +1,3 @@
-
 aiPresets = {
 	
 	EASY = 1,

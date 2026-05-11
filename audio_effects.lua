@@ -1,5 +1,3 @@
-
-
 -- Play a sound at a ocation and tag the source as playing the sound if necessary
 function play_gun_sound(sound,pos,volume,tag_sound,source,sound_type)
 	if(tag_sound) then 

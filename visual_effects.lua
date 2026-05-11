@@ -1,4 +1,3 @@
-
 -- function fire(gun,barrelCoords)
 --     if(gun.mouseDownSound and getPlayerMouseDown())then
 --     	if(not gun.loopSoundFile)then 

@@ -1,3 +1,4 @@
+#version 2
 #include "umf_core.lua"
 #include "umf_meta.lua"
 #include "umf_tool.lua"

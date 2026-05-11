@@ -1,4 +1,6 @@
-name = Armed Vehicles Framework (AVF)
-author = elboydo
-description = A framework that enables player controlled turrets and weapons on vehicles. Usage: Activate this mod in the mod manager window then play any map that has AVF supporting vehicles. This mod will detect any AVF compatible vehicles and make their weapons functional. [noupload]
+version = 2
+
+name = Armed Vehicles Framework (AVF) MP
+author = elboydo (MP port by PapaSosios)
+description = A framework that enables player controlled turrets and weapons on vehicles. Multiplayer-enabled version. Activate this mod in the mod manager window then play any map that has AVF supporting vehicles. This mod will detect any AVF compatible vehicles and make their weapons functional.
 tags = Gameplay

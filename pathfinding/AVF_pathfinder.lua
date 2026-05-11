@@ -1,5 +1,3 @@
-
-
 ---PATHFINDING LINKED
 
 #include "mapNode.lua"

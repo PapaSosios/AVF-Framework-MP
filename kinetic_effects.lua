@@ -1,12 +1,3 @@
-
-
-
-
-
-
-
-
-
 function fire(gun,barrelCoords,intel_payload)	
 	-- if(intel_payload and intel_payload.payload_type ) then 
 	-- 	DebugPrint("fire mode intel payload: "..intel_payload.payload_type)
